@@ -1,5 +1,11 @@
 rootProject.name = "java-pro-homeworks"
-include("hm01-gradle")
+include("hw01-gradle")
+include("hw02-gradle2")
+include("hw02-gradle2-libApi")
+include("hw02-gradle2-logging")
+include("hw02-gradle-libApiUse")
+include("hw03-generics")
+include("hw04-qa")
 
 
 pluginManagement {
@@ -23,8 +29,3 @@ pluginManagement {
         id("com.diffplug.spotless") version spotless
     }
 }
-include("hw02-gradle2-libApi")
-include("hw02-gradle-libApiUse")
-include("hw02-gradle2")
-include("hw02-gradle2-logging")
-include("hw03-generics")
