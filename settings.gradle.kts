@@ -1,12 +1,12 @@
 rootProject.name = "java-pro-homeworks"
-include("L01-gradle-HW")
+include("L01-gradle-HW01")
 
 include("L02-gradle2")
 include("L02-gradle2-libApi")
 include("L02-gradle2-logging")
 include("L02-gradle-libApiUse")
 
-include("L03-generics-HW")
+include("L03-generics-HW02")
 include("L04-qa")
 
 
