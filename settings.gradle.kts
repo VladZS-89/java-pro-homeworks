@@ -1,11 +1,13 @@
 rootProject.name = "java-pro-homeworks"
-include("hw01-gradle")
-include("hw02-gradle2")
-include("hw02-gradle2-libApi")
-include("hw02-gradle2-logging")
-include("hw02-gradle-libApiUse")
-include("hw03-generics")
-include("hw04-qa")
+include("L01-gradle-HW")
+
+include("L02-gradle2")
+include("L02-gradle2-libApi")
+include("L02-gradle2-logging")
+include("L02-gradle-libApiUse")
+
+include("L03-generics-HW")
+include("L04-qa")
 
 
 pluginManagement {
