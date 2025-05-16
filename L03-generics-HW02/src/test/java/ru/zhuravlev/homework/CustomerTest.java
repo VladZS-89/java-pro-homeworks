@@ -1,15 +1,12 @@
 package ru.zhuravlev.homework;
 
-import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
+import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Test;
 
 import java.util.HashMap;
 import java.util.Map;
-import org.junit.jupiter.api.Disabled;
-import org.junit.jupiter.api.DisplayName;
-import org.junit.jupiter.api.Test;
-import ru.zhuravlev.homework.Customer;
-import ru.zhuravlev.homework.CustomerReverseOrder;
-import ru.zhuravlev.homework.CustomerService;
+
+import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
 
 class CustomerTest {
 
