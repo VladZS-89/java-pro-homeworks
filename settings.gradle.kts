@@ -8,6 +8,8 @@ include("L02-gradle-libApiUse")
 
 include("L03-generics-HW02")
 include("L04-qa")
+include("L05-collections")
+include("L06-annotations")
 
 
 pluginManagement {
